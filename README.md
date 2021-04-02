@@ -10,7 +10,7 @@ Java constructor creation,
 
 Java list creation,
 
-Java Arraylist creation,
+Java arraylist creation,
 
 Java try..catch constructs, and
 
