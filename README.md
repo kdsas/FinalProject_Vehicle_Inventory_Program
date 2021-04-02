@@ -1,5 +1,6 @@
 # FinalProject_Vehicle_Inventory_Program
-Android Studio Java automobile class that will be used by a fictional dealership as a vehicle inventory program
+This application is an Android Studio Java automobile class that is a vehicle inventory program. 
+This application consists of four main methods: remove vehicle, add vehicle, update vehicle, and print vehicle information to file.
 
 What I Learned: Java variable creation,
 
